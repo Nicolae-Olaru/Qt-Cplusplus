@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="ingranaggio">b.png</file>
+        <file>673483.png</file>
+        <file>a.png</file>
+    </qresource>
+</RCC>
